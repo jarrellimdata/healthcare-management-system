@@ -92,3 +92,11 @@ hospital-management-system/
 - Python 3.x
 - PostgreSQL
 - Python packages in `requirements.txt`
+
+---
+
+## Credits
+
+- https://github.com/ahammadshawki8/Hospital-Management-System/blob/main/README.md
+- https://github.com/ShubhamSinghgit/Healthcare-management-system
+- https://github.com/RushikeshShinde14/Hospital-Database-Management-System-SQL-Project/
